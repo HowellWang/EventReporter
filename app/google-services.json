@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003089360782",
+    "firebase_url": "https://eventreporter-67b42.firebaseio.com",
+    "project_id": "eventreporter-67b42",
+    "storage_bucket": "eventreporter-67b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003089360782:android:ac692e3e385eeaa2",
+        "android_client_info": {
+          "package_name": "edu.scu.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003089360782-ac4q8brg6f6qrckeisbnck068t19tjvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.scu.eventreporter",
+            "certificate_hash": "59e187c7e1f46cb96176fe1abb06ae31a8ad10f2"
+          }
+        },
+        {
+          "client_id": "1003089360782-ms5g1ro8pn4p2fg1v51mj2n115bjdn48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnss_Ovebf_-kKSDM4WMdohVEXq4xFMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003089360782-ms5g1ro8pn4p2fg1v51mj2n115bjdn48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
